@@ -1,41 +1,4 @@
-# Rahi-Bag
-Website for Rahi Bag
-<!DOCTYPE html><html lang="en"><head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rahi Bag</title>
-    <link rel="stylesheet" href="style.css">
-</head><body>
-    <header>
-        <img src="images/rahi-bag-logo.png" alt="Rahi Bag Logo" class="logo">
-        <nav>
-            <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#products">Products</a></li>
-                <li><a href="#gallery">Gallery</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-    </header><section id="home">
-    <h1>Welcome to Rahi Bag</h1>
-    <p>Your one-stop shop for stylish and durable bags.</p>
-</section>
-
-<section id="about">
-    <h2>About Us / हमारे बारे में</h2>
-    <p>Rahi Bag provides handcrafted, durable, and affordable bags. Based in Jaipur, we deliver across India.</p>
-</section>
-
-<section id="products">
-    <h2>Our Products / हमारे उत्पाद</h2>
-    <div class="product">
-        <img src="images/ladies-sling-bag.jpg" alt="Ladies Sling Bag">
-        <p>Ladies Sling Bag - ₹1500</p>
-    </div>
-    <div class="product">
-        <img src="images/lunch-box-bag.jpg" alt="Lunch Box Bag">
-        <p>Lunch Box Bag - ₹899<br>Color: Black and Brown</p>
+rown</p>
     </div>
     <div class="product">
         <img src="images/laptop-bag.jpg" alt="Laptop Bag">
@@ -57,21 +20,10 @@ Website for Rahi Bag
     </div>
 </section>
 
-<section id="contact">
-    <h2>Contact Us / संपर्क करें</h2>
-    <p>WhatsApp: <a href="https://wa.me/919654428948">+91-9654428948</a>, <a href="https://wa.me/919570749370">+91-9570749370</a></p>
-    <p>Email: rahibag@gmail.com</p>
-    <img src="images/upi-qr.png" alt="UPI QR for Payment" class="qr">
-    <p>UPI ID: 9654428948@ybl</p>
-</section>
-
-<footer>
-    <p>Free Delivery in Jaipur. Extra charges apply for other cities.</p>
-    <p>Returns only within 24 hours for damaged or wrong items.</p>
-    <p>&copy; 2025 Rahi Bag. All Rights Reserved.</p>
-</footer>
-
-</body></htm)
+<section id="contact
+>
+>
+>
 
 body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; background: #111; color: #f4f4f4; }
 
